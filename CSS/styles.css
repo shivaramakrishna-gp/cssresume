@@ -1,0 +1,145 @@
+
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.profile{
+  margin: auto;
+  width: 30%;
+  font-size: 1.3rem;
+  line-height: 2;
+}
+
+.contact-me{
+  width :35%;
+  margin: auto auto 45px;
+}
+
+h1{
+
+  margin: 0 auto ;
+font-family: 'Love Light', cursive;
+font-size: 5em;
+    margin-block-end: -23px;
+
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+}
+h2{
+  color: #1572A1;
+  font-weight: normal;
+
+}
+
+h3{
+  color: #DD4A48;
+}
+a{
+  color: #19282F;
+}
+
+hr{
+  width: 15%;
+
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #9AD0EC;
+  margin: 50px auto;
+}
+#hi{
+  margin-bottom: 0;
+}
+#s1{
+
+  font-family: 'Libre Barcode 39 Extended Text', cursive;
+  font-size: 2em;
+  background-color: #1572A1;
+  color: white;
+  font-weight: normal;
+
+}
+.high{
+  font-size: 2em;
+}
+
+
+.div1{
+  background-color: #9AD0EC;
+  position: relative;
+  padding: 100px 0 0 0;
+}
+
+.topcloud{
+  position: absolute;
+  left: 817px;
+    top: 69px;
+}
+.mountain{
+  height: 120%;
+  width: 53%;
+  padding: 0;
+}
+
+.bottomcloud{
+  position: absolute;
+  left: 290px;
+    top: 244px;
+}
+.gardening{
+  width: 27%;
+  float: right;
+  margin-left:  30px;
+}
+.coding{
+  width: 27%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+      margin-top: 60px;
+  line-height: 2;
+    text-align: left;
+}
+.bottom-container{
+  background-color: #1572A1;
+  margin-top: 50px;
+  padding:20px;
+}
+#copy{
+  color: white;
+  font-weight: bolder;
+}
+.footer-link{
+  padding: 14px;
+  color: #9AD0EC
+}
